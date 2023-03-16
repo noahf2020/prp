@@ -20,20 +20,10 @@ function App() {
   return (
   <Router>
     <Header />
-        <Switch>
-          <Route path="/portfolio">
-             <Portfolio />
-          </Route>
-          <Route path="/article">
-             <Articles />
-          </Route>
-          <Route path="/portal">
-             <Portal />
-          </Route>
-          <Route path="/">
+
+    
             <Home />
-          </Route>
-        </Switch>
+  
   </Router>
   );
 }

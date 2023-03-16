@@ -1,8 +1,8 @@
 import React from 'react'
-import Typing from 'react-typing-animation';
+
 import styled from 'styled-components';
-import MainDevImage from './code.svg'
-import Particles from 'react-particles-js';
+
+
 
 
 
